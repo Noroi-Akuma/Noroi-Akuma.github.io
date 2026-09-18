@@ -11,7 +11,8 @@ nav {
     position: fixed;
     top: 0;
     width: 100%;
-    background-color: #f8f8f8;
+    background-image: linear-gradient(90deg, #74D7BB, #53C8B6, #35A99C);
+    background-color: transparent;
 }
 
 body {
