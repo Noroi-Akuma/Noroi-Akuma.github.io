@@ -13,6 +13,7 @@ h1 {
     color: #333;
     font-family: Arial, sans-serif;
     font-size: 24px;
+    text-align: center;
     padding: 10px;
 }
 
@@ -20,4 +21,18 @@ p {
     color: #666;
     font-family: Arial, sans-serif;
     font-size: 16px;
+    padding-left: 10px;
+}
+div {
+    color: #666;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
 }
