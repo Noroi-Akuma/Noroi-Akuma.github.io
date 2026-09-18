@@ -1,7 +1,9 @@
-title {
-    font-family: Arial, sans-serif;
-    font-size: 20px;
+h1 {
     color: #333;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px;
 }
 
 nav {
@@ -20,14 +22,6 @@ body {
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-}
-
-h1 {
-    color: #333;
-    font-family: Arial, sans-serif;
-    font-size: 24px;
-    text-align: center;
-    padding: 10px;
 }
 
 p {
