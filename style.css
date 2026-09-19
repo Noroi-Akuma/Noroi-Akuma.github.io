@@ -15,12 +15,13 @@ header {
     justify-content: center;
 }
 
-h1 {
+header h1 {
     color: #ffffff;
     font-family: Arial, sans-serif;
     font-size: 24px;
     text-align: center;
     padding: 10px;
+    padding-top: 50px;
 }
 
 main {
@@ -63,6 +64,15 @@ img {
     margin: 0 auto;
     max-width: 100%;
     height: auto;
+}
+
+.profilePicture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 
