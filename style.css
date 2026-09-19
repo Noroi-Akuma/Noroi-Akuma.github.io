@@ -1,17 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+/*-----Container Styles-----*/
+header {
+    width: 100%;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+    background-color: #000000;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+
 h1 {
-    color: #333;
+    color: #ffffff;
     font-family: Arial, sans-serif;
     font-size: 24px;
     text-align: center;
     padding: 10px;
 }
 
-body {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+main {
+    margin-left: 10px;
 }
+
+    main img {
+        margin-right: 10px;
+        margin-top: 10px;
+        display: flex;
+    }
+
+body {
+    max-width: 1200px;
+    display: block;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border: blue solid 1px;
+    background-color: #fff;
+}
+
 
 p {
     color: #666;
@@ -31,7 +62,6 @@ img {
     display: block;
     margin: 0 auto;
     max-width: 100%;
-    width: auto;
     height: auto;
 }
 
@@ -39,12 +69,14 @@ img {
 /*-------NAVIGATION-------*/
 nav {
     width: 100%;
+    height: 30px;
     display: flex;
     justify-content: flex-start;
     border: 1px solid;
     border-left: none;
     border-right: none;
     margin: auto;
+    background-color: #d90c13;
 }
 
     nav a {
@@ -55,4 +87,29 @@ nav {
         padding-left: 10px;
         padding-top: 5px;
         padding-bottom: 5px;
+        font-family: Arial, sans-serif;
+    }
+
+        nav a:link,
+        a:visited {
+            color: #000000;
+        }
+
+        nav a:hover {
+            color: #000000;
+        }
+
+.MText {
+    width: 80%;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    line-height: 1.8em;
+    margin-left: 20px;
+    margin-right: auto;
+    font-size: 1.2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+    .MText p {
+        padding-top: .3em;
     }

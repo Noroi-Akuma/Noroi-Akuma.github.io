@@ -14,7 +14,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 133,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -28,9 +28,10 @@
               "RelativeDocumentMoniker": "style.css",
               "ToolTip": "C:\\Users\\pedbr\\source\\repos\\Noroi-Akuma\\Noroi-Akuma.github.io\\style.css",
               "RelativeToolTip": "style.css",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-09-18T11:02:52.86Z"
+              "WhenOpened": "2026-09-18T11:02:52.86Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,7 +41,7 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\pedbr\\source\\repos\\Noroi-Akuma\\Noroi-Akuma.github.io\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-09-18T10:58:37.711Z",
               "EditorCaption": ""
